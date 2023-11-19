@@ -1,8 +1,8 @@
 {
+  "homepage": "https://IgorGutkowski.github.io/stackblitz_zad1_jsx",
   "name": "stackblitz-starters-jgdshn",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://IgorGutkowski.github.io/stackblitz_zad1_jsx",
   "dependencies": {
     "@types/react": "18.2.37",
     "@types/react-dom": "18.2.15",
@@ -10,7 +10,7 @@
     "react-dom": "18.2.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start --public-url=https://igorgutkowski.github.io/stackblitz_zad1_jsx/",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
